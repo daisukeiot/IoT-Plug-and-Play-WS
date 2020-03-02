@@ -11,3 +11,6 @@ Do this before the training
 ```bash
 ssh "pi@192.168.8.10" "cd ~/ && sudo apt-get update && sudo apt-get install -y git && git clone https://github.com/daisukeiot/IoT-Plug-and-Play-WS.git && cd Intelligent-Edge-in-a-Day && /bin/bash ./prep-rp4.sh"
 ```
+
+1. Flash SensorTile.Box firmware from <https://github.com/daisukeiot/IoT-Plug-and-Play-WS/blob/master/SensorTile.Box/IoT-PnP.bin>  
+    Use STM32CubeProg to flash <https://www.st.com/en/development-tools/stm32cubeprog.html>
