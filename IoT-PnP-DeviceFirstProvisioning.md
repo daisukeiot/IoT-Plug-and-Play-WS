@@ -28,7 +28,7 @@ Furthermore, with IoT Plug and Play, cloud solution can understand devices' capa
 
 > [!TIP]  
 > If you are interested in you can diff the code changes using VSCode's built-in diff function.  
-> [Running Code Diff](https://github.com/daisukeiot/IoT-Plug-and-Play-WS/media/media/code-diff.mp4)
+> [Running Code Diff](https://github.com/daisukeiot/IoT-Plug-and-Play-WS/blob/master/media/code-diff.mp4)
 
 1. Copy and replace `main.c` from `DeviceFirst` folder  
 
