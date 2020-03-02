@@ -10,9 +10,9 @@ Before sending RESTful API, let's set up Postman collection and environment
 
 1. Open Postman
 1. Import Collection  
-    [File] -> [Import], then select `IoT Central Preview.postman_collection` in `C:\Repo\Intelligent-Edge-in-a-Day\lab02\Postman` folder
+    [File] -> [Import], then select `IoT Central Preview.postman_collection` in `C:\Repo\IoT-Plug-and-Play-WS\lab02\Postman` folder
 1. Import Environment  
-    [File] -> [Import], then select `IoT Central API.postman_environment` in `C:\Repo\Intelligent-Edge-in-a-Day\lab02\Postman` folder
+    [File] -> [Import], then select `IoT Central API.postman_environment` in `C:\Repo\IoT-Plug-and-Play-WS\lab02\Postman` folder
 
 1. Select `Collection` tab and `IoT Central API` environment  
 

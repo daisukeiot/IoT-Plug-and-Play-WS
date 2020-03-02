@@ -5,7 +5,7 @@ sudo apt-get install -y git cmake build-essential curl libcurl4-openssl-dev libs
 # Clone Repo
 cd ~
 # git clone https://github.com/daisukeiot/IoT-Plug-and-Play-WS.git && \
-cd ~/Intelligent-Edge-in-a-Day && \
+cd ~/IoT-Plug-and-Play-WS && \
 git clone https://github.com/Azure/azure-iot-sdk-c --recursive -b public-preview && \
 # Install IoT Edge
 cd /tmp && \

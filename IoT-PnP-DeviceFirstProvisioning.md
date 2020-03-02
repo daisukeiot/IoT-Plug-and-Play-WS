@@ -33,7 +33,7 @@ Furthermore, with IoT Plug and Play, cloud solution can understand devices' capa
 1. Copy and replace `main.c` from `DeviceFirst` folder  
 
     ```bash
-    cp ~/Intelligent-Edge-in-a-Day/lab02/DeviceFirst/main.c ~/Intelligent-Edge-in-a-Day/codegen1
+    cp ~/IoT-Plug-and-Play-WS/lab02/DeviceFirst/main.c ~/IoT-Plug-and-Play-WS/codegen1
     ```
 
 1. Re-compile with :  

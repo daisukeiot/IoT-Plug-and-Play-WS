@@ -151,14 +151,14 @@ After registering RP4 to configuration file, you can connect to RP4 by selecting
 
 ## Open the Lab Contents folder in VSCode
 
-RP4 is prepared with the lab contents repo.  The repo is cloned to `/home/pi/Intelligent-Edge-in-a-Day` folder
+RP4 is prepared with the lab contents repo.  The repo is cloned to `/home/pi/IoT-Plug-and-Play-WS` folder
 
 1. From `Explorer` pane, select `Open Folder`  
   If you do not see this menu, select `Open Folder...` menu from `File` menu
 
     ![vscode-26](media/vscode-26.png)
 
-1. Select `Intelligent-Edge-in-a-Day` from the list, then click `OK` or press `Enter` key
+1. Select `IoT-Plug-and-Play-WS` from the list, then click `OK` or press `Enter` key
 
     ![vscode-27](media/vscode-27.png)
 

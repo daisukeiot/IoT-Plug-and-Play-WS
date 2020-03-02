@@ -24,8 +24,8 @@ However, the code stub does not include device specific code such as :
 
 ## Download Device Capability Model
 
-1. Open `C:\Repo\Intelligent-Edge-in-a-Day` folder in VSCode  
-    [File] -> [Open Folder...], then select `C:\Repo\Intelligent-Edge-in-a-Day`
+1. Open `C:\Repo\IoT-Plug-and-Play-WS` folder in VSCode  
+    [File] -> [Open Folder...], then select `C:\Repo\IoT-Plug-and-Play-WS`
 1. In VSCode, open `Command Palette` by pressing `F1` key  
 1. Type `plug` in the command palette to see list of IoT Plug and Play commands
 1. Select `IoT Plug and Play : Open Model Repository`
@@ -44,7 +44,7 @@ However, the code stub does not include device specific code such as :
 
     ![vscode-30-4](media/vscode-30-4.png)  
 
-1. Confirm a json file `urn_st_stbox1_azure1_1.capabilitymodel.json` is downloaded to local folder `C:\Repo\Intelligent-Edge-in-a-Day`  
+1. Confirm a json file `urn_st_stbox1_azure1_1.capabilitymodel.json` is downloaded to local folder `C:\Repo\IoT-Plug-and-Play-WS`  
 
     You can close Model Repository Window
 
